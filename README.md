@@ -1,12 +1,12 @@
-# AssistCart - E-Store Virtual Assistant 🛍️🤖
+# AssistCart - E-Store Virtual Assistant 
 
 AssistCart is a **Django-powered chatbot** that helps users track orders, answer FAQs, and provide virtual store assistance.
 
-## Features 🚀
-- 📦 **Order Tracking**
-- 💬 **Smart Responses**
-- 📊 **Django & REST API Integration**
-- 🌍 **Deployable on PythonAnywhere**
+## Features 
+  Order Tracking**
+  Smart Responses**
+  Django & REST API Integration**
+  Deployable on PythonAnywhere**
 
 ## Installation 🛠️
 1. Clone the repository:
